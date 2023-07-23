@@ -10,6 +10,6 @@ package org.example;
 public class Test02 {
     public static void main(String[] args) {
         int a = 1;
-        System.out.println("test04...");
+        System.out.println("test02...");
     }
 }
