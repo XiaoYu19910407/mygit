@@ -12,6 +12,5 @@ public class Test02 {
         int a = 1;
         System.out.println("test02...");
         System.out.println("C2客户端操作test02...");
-        System.out.println("C1客户端操作test02...");
     }
 }
