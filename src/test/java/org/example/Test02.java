@@ -11,5 +11,6 @@ public class Test02 {
     public static void main(String[] args) {
         int a = 1;
         System.out.println("test02...");
+        System.out.println("C2客户端操作test02...");
     }
 }
