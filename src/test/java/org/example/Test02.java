@@ -9,7 +9,7 @@ package org.example;
  */
 public class Test02 {
     public static void main(String[] args) {
-        String a = "s";
+        int a = 1;
         System.out.println("test03...");
     }
 }
