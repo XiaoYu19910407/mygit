@@ -10,5 +10,8 @@ package org.example;
 public class Test01 {
     public static void main(String[] args) {
         System.out.println("c1dev...");
+        System.out.println("c1dev...");
+        System.out.println("c1dev...");
+        System.out.println("dev test01...");
     }
 }
